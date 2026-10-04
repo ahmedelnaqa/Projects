@@ -305,6 +305,8 @@ Create a Standard topic named `testingSNS`. No subscribers initially — subscri
 
 ### 8. n8n Workflow
 
+![Architecture Diagram](WeatherDemoN8N.png)
+
 **Nodes:**
 
 1. **Email Trigger (IMAP)**
