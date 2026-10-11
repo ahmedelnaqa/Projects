@@ -2,6 +2,8 @@
 
 An end-to-end, serverless weather notification system. Users send an email with a city name; the system fetches live weather from a public API and sends back a personalized HTML weather report — with SNS double opt‑in for subscription management.
 
+![Architecture Diagram](WeatherDraw.gif)
+
 ---
 
 ## 📖 Table of Contents
